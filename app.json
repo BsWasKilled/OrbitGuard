@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "OrbitGuard",
+    "slug": "orbitguard",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "assetBundlePatterns": ["**/*"],
+    "android": {
+      "package": "com.fiap.orbitguard"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "orbitguard-fiap"
+      }
+    }
+  }
+}
